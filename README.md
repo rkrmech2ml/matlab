@@ -1,1 +1,1 @@
-# matlab
+These are some samples from my studies in optimization one. # matlab
